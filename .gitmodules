@@ -1,3 +1,6 @@
 [submodule "react-usereducer"]
 	path = react-usereducer
 	url = https://github.com/saipatro/react-usereducer.git
+[submodule "react-mern-client"]
+	path = react-mern-client
+	url = https://github.com/saipatro/react-mern-client.git
